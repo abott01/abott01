@@ -1,5 +1,8 @@
-## Hi there 👋
+## Howdy 👋
 
+-OSU Computer Engineering student
+-Working on several video games
+-Learning how to code in C#
 <!--
 **abott01/abott01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
